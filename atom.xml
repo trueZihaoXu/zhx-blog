@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zihao&#39;s Blog</title>
+  
+  
+  <link href="https://truezihaoxu.github.io/zhx-blog/atom.xml" rel="self"/>
+  
+  <link href="https://truezihaoxu.github.io/zhx-blog/"/>
+  <updated>2021-04-13T20:46:25.761Z</updated>
+  <id>https://truezihaoxu.github.io/zhx-blog/</id>
+  
+  <author>
+    <name>Zihao Xu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Doggo Vaccine</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/13/Doggo-Vaccine/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/13/Doggo-Vaccine/</id>
+    <published>2021-04-13T20:42:18.000Z</published>
+    <updated>2021-04-13T20:46:25.761Z</updated>
+    
+    <content type="html"><![CDATA[<p>Doggo got a vaccine ehehe.<br>We went to a veterinary clinic at Arroios to get her a vaccine.</p><img src="/zhx-blog/2021/04/13/Doggo-Vaccine/doggo-vaccine.jpg" class>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Doggo got a vaccine ehehe.&lt;br&gt;We went to a veterinary clinic at Arroios to get her a vaccine.&lt;/p&gt;
+&lt;img src=&quot;/zhx-blog/2021/04/13/Doggo-Va</summary>
+      
+    
+    
+    
+    
+    <category term="Dollar" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Dollar/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>I give up</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/I-give-up/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/I-give-up/</id>
+    <published>2021-04-12T20:13:00.000Z</published>
+    <updated>2021-04-14T09:49:32.226Z</updated>
+    
+    <content type="html"><![CDATA[<p>Damn it. I have been working on this for say more than 4 hours, but the damn Safari favicon never changed at all. Where the fuck did the Safari get that old favicon? WHERE IS THAT GOD DAMN OLD IMAGE’s SOURCE FILE??? WHERE IS MY NEW IMAGE???<br>The source code (index.html) says that everything is in its place. But the God Damn favicon didn’t refresh.<br>Everyting is working on Chrome. The shortcut icon on Safari works perfectly. Why the stupid tab icon didn’t change?</p><img src="/zhx-blog/2021/04/12/I-give-up/dosent-make-sense.png" class><img src="/zhx-blog/2021/04/12/I-give-up/doesn't-make-any-fucking-sense.png" class><p>I already tried:<br>1: Open my website at Private mode (Safari)<br>2: Delete all Safari favicon cache that I found in this directory:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~&#x2F;Library&#x2F;Safari&#x2F;Favicon Cache&#x2F;</span><br></pre></td></tr></table></figure><p>3: Restart computer<br>Nothing above worked!<br>But the Chrome has everything CORRECT! Damn it.<br>No more hexo for today. I was really happy when I can put image on my site in the afternoon, but now I’m kinda pissed off.<br>Oh btw, it was quite boring typing “hexo clean”, “hexo g” and “hexo d”. Not to mention the time that you have to wait between these commands. I found that this is a “compact version” of deploy command, it’s quite handy:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g --d</span><br></pre></td></tr></table></figure> ]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Damn it. I have been working on this for say more than 4 hours, but the damn Safari favicon never changed at all. Where the fuck did the </summary>
+      
+    
+    
+    
+    
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solved site logo not appearing in a hilarious way</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/Solved-site-logo-not-appearing-in-a-hilarious-way/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/Solved-site-logo-not-appearing-in-a-hilarious-way/</id>
+    <published>2021-04-12T17:47:53.000Z</published>
+    <updated>2021-04-12T20:32:46.317Z</updated>
+    
+    <content type="html"><![CDATA[<p>Just RESIZE that God Damn safari window and my logo (fraud alert! XD) appeared!<br>Now I finally solved the logo problem, one more to go:<br>favicon displays differentely on Safari and Chrome wtf? </p><img src="/zhx-blog/2021/04/12/Solved-site-logo-not-appearing-in-a-hilarious-way/logo-solved-remaining-favicon.png" class title="Damn it!">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Just RESIZE that God Damn safari window and my logo (fraud alert! XD) appeared!&lt;br&gt;Now I finally solved the logo problem, one more to go:</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>First Post With Image (Fixed)</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/</id>
+    <published>2021-04-12T12:22:06.000Z</published>
+    <updated>2021-04-12T13:49:11.373Z</updated>
+    
+    <content type="html"><![CDATA[<p>My first try failed, but now (after n tries) it is working normally!<br>Now the images doesn’t have a description…why? (•_•;</p><img src="/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/one-failed.png" class title="this is a image">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;My first try failed, but now (after n tries) it is working normally!&lt;br&gt;Now the images doesn’t have a description…why? (•_•;&lt;/p&gt;
+&lt;img src</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test-img</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/test-img/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/test-img/</id>
+    <published>2021-04-12T09:50:15.000Z</published>
+    <updated>2021-04-12T13:45:25.469Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/zhx-blog/2021/04/12/test-img/random-grid.jpg" class title="this is an image"><p>Image is working after excuting this command in terminal (pwd: zhx-hexo):</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install https:&#x2F;&#x2F;github.com&#x2F;7ym0n&#x2F;hexo-asset-image --save</span><br></pre></td></tr></table></figure><p>The code above was copied from: <a href="https://blog.csdn.net/weixin_44708662/article/details/105738361" title="[external] [title]" target>CSDN</a></p><p>Video example:</p><div class="video-container"><iframe src="https://www.youtube.com/embed/feIDVQ2tz0o" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;img src=&quot;/zhx-blog/2021/04/12/test-img/random-grid.jpg&quot; class title=&quot;this is an image&quot;&gt;
+
+&lt;p&gt;Image is working after excuting this command in</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>First Post With Image (Original)</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/1st-image/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/1st-image/</id>
+    <published>2021-04-12T09:22:09.000Z</published>
+    <updated>2021-04-12T13:46:01.650Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+      
+      
+    <summary type="html">
+</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Solved no CSS style after generation (hexo g)</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/11/no-css-pos-generate/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/11/no-css-pos-generate/</id>
+    <published>2021-04-11T19:37:56.000Z</published>
+    <updated>2021-04-12T13:45:24.959Z</updated>
+    
+    <content type="html"><![CDATA[<p>Just add this code into _congif.yml and it will be solved:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">url: https:&#x2F;&#x2F;truezihaoxu.github.io&#x2F;zhx-blog&#x2F;</span><br></pre></td></tr></table></figure><img src="/zhx-blog/2021/04/11/no-css-pos-generate/important-thing.png" class title="[Important]">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Just add this code into _congif.yml and it will be solved:&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span c</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/11/hello-world/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/11/hello-world/</id>
+    <published>2021-04-11T19:22:38.869Z</published>
+    <updated>2021-04-12T13:45:22.680Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
