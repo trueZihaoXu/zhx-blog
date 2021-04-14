@@ -1,6 +1,15 @@
-<svg
-    xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewbox="0 0 949 256">
-    <path fill="#2366d1" d="M110.85125168440814 128L221.70250336881628 192L110.85125168440814 256L0 192Z"/>
-    <path fill="#609dff" d="M110.85125168440814 64L221.70250336881628 128L110.85125168440814 192L0 128Z"/>
-    <path fill="#a4c7ff" d="M110.85125168440814 0L221.70250336881628 64L110.85125168440814 128L0 64Z"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M52 220 l-33 -60 33 -60 33 -60 75 0 75 0 33 60 33 60 -33 60 -33 60
+-75 0 -75 0 -33 -60z m178 -10 c0 -5 -19 -24 -41 -42 l-41 -33 38 -5 c20 -3
+39 -11 42 -17 3 -10 -15 -13 -67 -13 -39 0 -71 4 -71 10 0 5 19 24 41 42 l41
+33 -38 5 c-20 3 -39 11 -42 18 -3 9 15 12 67 12 39 0 71 -4 71 -10z"/>
+</g>
 </svg>
