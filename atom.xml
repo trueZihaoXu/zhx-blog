@@ -123,16 +123,12 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/</id>
     <published>2021-04-12T12:22:06.000Z</published>
-    <updated>2021-04-15T08:51:14.565Z</updated>
+    <updated>2021-04-15T09:57:26.462Z</updated>
     
-    <content type="html"><![CDATA[<p>My first try failed, but now (after n tries) it is working normally!<br>Now the images doesn’t have a description…why? (•_•;</p><img src="/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/one-failed.png" class title="this is a image">]]></content>
+    <content type="html"><![CDATA[<p>My first try failed, but now (after n tries) it is working normally!<br>Now the images doesn’t have a description…why? (•_•;</p><span id="more"></span><img src="/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/one-failed.png" class title="this is a image">]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;My first try failed, but now (after n tries) it is working normally!&lt;br&gt;Now the images doesn’t have a description…why? (•_•;&lt;/p&gt;
-&lt;img src</summary>
-      
+    <summary type="html">&lt;p&gt;My first try failed, but now (after n tries) it is working normally!&lt;br&gt;Now the images doesn’t have a description…why? (•_•;&lt;/p&gt;</summary>
     
     
     
@@ -170,14 +166,15 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/1st-image/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/1st-image/</id>
     <published>2021-04-12T09:22:09.000Z</published>
-    <updated>2021-04-15T09:12:55.690Z</updated>
+    <updated>2021-04-15T10:07:06.734Z</updated>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>Cover ratio = 660:283</p>]]></content>
     
     
       
       
-    <summary type="html">
+    <summary type="html">&lt;p&gt;Cover ratio = 660:283&lt;/p&gt;
+
 </summary>
       
     
