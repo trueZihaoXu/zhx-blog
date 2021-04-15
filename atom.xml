@@ -6,7 +6,7 @@
   <link href="https://truezihaoxu.github.io/zhx-blog/atom.xml" rel="self"/>
   
   <link href="https://truezihaoxu.github.io/zhx-blog/"/>
-  <updated>2021-04-15T11:26:18.424Z</updated>
+  <updated>2021-04-15T12:35:36.097Z</updated>
   <id>https://truezihaoxu.github.io/zhx-blog/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo Development Checklist</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/15/Hexo-Development-Check-List/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/15/Hexo-Development-Check-List/</id>
+    <published>2021-04-15T12:27:22.000Z</published>
+    <updated>2021-04-15T12:35:36.097Z</updated>
+    
+    <content type="html"><![CDATA[<p>Here you can find my Hexo-Dev checklist and some useful hexo documentations</p><span id="more"></span><p>Checklist:</p><ul><li><input checked disabled type="checkbox"> Favicon and logo</li><li><input checked disabled type="checkbox"> Live 2d widget</li><li><input disabled type="checkbox"> “Resources” list here (includes lots of useful documentations) which is basically a bunch of links</li><li><input disabled type="checkbox"> Comments</li><li><input disabled type="checkbox"> Share</li><li><input disabled type="checkbox"> A functional (!!) email subscription system</li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Here you can find my Hexo-Dev checklist and some useful hexo documentations&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+  </entry>
   
   <entry>
     <title>Successfully changed live2d widget</title>
@@ -41,7 +60,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/15/Maybe-I-found-the-reason-of-icorrect-Safari-tab-favicon/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/15/Maybe-I-found-the-reason-of-icorrect-Safari-tab-favicon/</id>
     <published>2021-04-15T09:32:27.000Z</published>
-    <updated>2021-04-15T12:09:53.903Z</updated>
+    <updated>2021-04-15T12:21:40.897Z</updated>
     
     <content type="html"><![CDATA[<p>Soooo actually the safari tab favicon of newer pages is correct.<br>My explaination is:</p><span id="more"></span><img src="/zhx-blog/2021/04/15/Maybe-I-found-the-reason-of-icorrect-Safari-tab-favicon/new-tab-normal.jpg" class title="this is an image"><p>I don’t have that image in my local folders, hence the old favicon has to be stored in a Safari server. The favicon should be somehow “associated” to my blog’s link, so every time that some one opens my blog’s main page, Safari will put the icon stored in Safari’s server into user’s Safari tab icon. The old icon is not refreshed in the server end.<br>When I create a new page, a new link is created. Then, the Safari’s server will store the correct favicon which is associated only to my new pages, but not the old ones.<br>Solution: wait maybe one week or one month. Let’s see if the lazy Safari server refresh :/</p>]]></content>
     
