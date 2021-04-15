@@ -37,11 +37,11 @@
   </entry>
   
   <entry>
-    <title>Maybe I found the reason of icorrect Safari tab favicon</title>
+    <title>Maybe I found the reason of the incorrect Safari tab favicon</title>
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/15/Maybe-I-found-the-reason-of-icorrect-Safari-tab-favicon/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/15/Maybe-I-found-the-reason-of-icorrect-Safari-tab-favicon/</id>
     <published>2021-04-15T09:32:27.000Z</published>
-    <updated>2021-04-15T09:51:35.178Z</updated>
+    <updated>2021-04-15T12:09:53.903Z</updated>
     
     <content type="html"><![CDATA[<p>Soooo actually the safari tab favicon of newer pages is correct.<br>My explaination is:</p><span id="more"></span><img src="/zhx-blog/2021/04/15/Maybe-I-found-the-reason-of-icorrect-Safari-tab-favicon/new-tab-normal.jpg" class title="this is an image"><p>I don’t have that image in my local folders, hence the old favicon has to be stored in a Safari server. The favicon should be somehow “associated” to my blog’s link, so every time that some one opens my blog’s main page, Safari will put the icon stored in Safari’s server into user’s Safari tab icon. The old icon is not refreshed in the server end.<br>When I create a new page, a new link is created. Then, the Safari’s server will store the correct favicon which is associated only to my new pages, but not the old ones.<br>Solution: wait maybe one week or one month. Let’s see if the lazy Safari server refresh :/</p>]]></content>
     
