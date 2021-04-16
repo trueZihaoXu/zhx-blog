@@ -6,7 +6,7 @@
   <link href="https://truezihaoxu.github.io/zhx-blog/atom.xml" rel="self"/>
   
   <link href="https://truezihaoxu.github.io/zhx-blog/"/>
-  <updated>2021-04-16T08:04:20.868Z</updated>
+  <updated>2021-04-16T10:51:24.750Z</updated>
   <id>https://truezihaoxu.github.io/zhx-blog/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Just a random new post to test email delivery system</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/16/Just-a-random-new-post-to-test-email-delivery-system/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/16/Just-a-random-new-post-to-test-email-delivery-system/</id>
+    <published>2021-04-16T10:49:48.000Z</published>
+    <updated>2021-04-16T10:51:24.750Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Let’s-test"><a href="#Let’s-test" class="headerlink" title="Let’s test"></a>Let’s test</h1><p>Are you going to sent this new post to my subscriber, Google FeedBurner??</p><p><strong>Please</strong> do it!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Let’s-test&quot;&gt;&lt;a href=&quot;#Let’s-test&quot; class=&quot;headerlink&quot; title=&quot;Let’s test&quot;&gt;&lt;/a&gt;Let’s test&lt;/h1&gt;&lt;p&gt;Are you going to sent this new post to</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+  </entry>
   
   <entry>
     <title>This is a post without images</title>
