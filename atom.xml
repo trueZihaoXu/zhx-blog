@@ -6,7 +6,7 @@
   <link href="https://truezihaoxu.github.io/zhx-blog/atom.xml" rel="self"/>
   
   <link href="https://truezihaoxu.github.io/zhx-blog/"/>
-  <updated>2021-04-15T18:43:12.755Z</updated>
+  <updated>2021-04-16T08:04:20.868Z</updated>
   <id>https://truezihaoxu.github.io/zhx-blog/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>This is a post without images</title>
+    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/16/This-is-a-post-without-images/"/>
+    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/16/This-is-a-post-without-images/</id>
+    <published>2021-04-16T07:47:40.000Z</published>
+    <updated>2021-04-16T08:04:20.868Z</updated>
+    
+    <content type="html"><![CDATA[<p>Yes. This is a post without any kind of images, including thumbnail, cover, etc.</p><span id="more"></span><p>The reason why of making this post is that the mailing system didn’t push the last post (the one with images of iOS mail app) to the subscribed email.<br>I suspect that it is because of the images: FeedBurner’s <s>useless</s> server is not willing to store my images and push them to my mail.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Yes. This is a post without any kind of images, including thumbnail, cover, etc.&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+  </entry>
   
   <entry>
     <title>Email subscription system is working, but there&#39;s still something weird...</title>
