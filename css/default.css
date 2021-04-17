@@ -10830,6 +10830,11 @@ article.article .content h4 {
 article.article .content h5 {
   font-size: 1em;
 }
+article.article .content mark {
+  background-color: #fa8072;
+  padding: 0.2em;
+  border-radius: 0.4em;
+}
 article.article .content pre {
   font-size: 0.85em;
 }
