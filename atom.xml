@@ -6,7 +6,7 @@
   <link href="https://truezihaoxu.github.io/zhx-blog/atom.xml" rel="self"/>
   
   <link href="https://truezihaoxu.github.io/zhx-blog/"/>
-  <updated>2021-04-17T09:09:28.926Z</updated>
+  <updated>2021-04-17T13:44:27.501Z</updated>
   <id>https://truezihaoxu.github.io/zhx-blog/</id>
   
   <author>
@@ -17,26 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Tags and Categories are pretty much the same thing</title>
-    <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/17/Tags-and-Categories-are-pretty-much-the-same-thing/"/>
-    <id>https://truezihaoxu.github.io/zhx-blog/2021/04/17/Tags-and-Categories-are-pretty-much-the-same-thing/</id>
-    <published>2021-04-17T09:08:59.000Z</published>
-    <updated>2021-04-17T09:09:28.926Z</updated>
-    
-    
-    
-    
-    
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
-    
-  </entry>
-  
-  <entry>
     <title>I figured out how the mail system works</title>
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/16/I-figured-out-how-the-mail-system-works/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/16/I-figured-out-how-the-mail-system-works/</id>
     <published>2021-04-16T16:52:14.000Z</published>
-    <updated>2021-04-16T18:25:57.426Z</updated>
+    <updated>2021-04-17T13:44:27.501Z</updated>
     
     <content type="html"><![CDATA[<p>The email only send one email at 16:00 (UTC+1) of each day.<br>Well, nothing to worry about!</p>]]></content>
     
@@ -49,8 +34,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -59,7 +46,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/16/Just-a-random-new-post-to-test-email-delivery-system/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/16/Just-a-random-new-post-to-test-email-delivery-system/</id>
     <published>2021-04-16T10:49:48.000Z</published>
-    <updated>2021-04-16T10:51:24.750Z</updated>
+    <updated>2021-04-17T13:48:50.347Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Let’s-test"><a href="#Let’s-test" class="headerlink" title="Let’s test"></a>Let’s test</h1><p>Are you going to sent this new post to my subscriber, Google FeedBurner??</p><p><strong>Please</strong> do it!</p>]]></content>
     
@@ -71,8 +58,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🤨" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A4%A8/"/>
     
   </entry>
   
@@ -81,7 +70,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/16/This-is-a-post-without-images/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/16/This-is-a-post-without-images/</id>
     <published>2021-04-16T07:47:40.000Z</published>
-    <updated>2021-04-16T08:04:20.868Z</updated>
+    <updated>2021-04-17T13:49:02.192Z</updated>
     
     <content type="html"><![CDATA[<p>Yes. This is a post without any kind of images, including thumbnail, cover, etc.</p><span id="more"></span><p>The reason why of making this post is that the mailing system didn’t push the last post (the one with images of iOS mail app) to the subscribed email.<br>I suspect that it is because of the images: FeedBurner’s <s>useless</s> server is not willing to store my images and push them to my mail.</p>]]></content>
     
@@ -90,8 +79,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🤨" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A4%A8/"/>
     
   </entry>
   
@@ -100,7 +91,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/15/Email-subscription-system-is-working-but-there-s-still-something-weird/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/15/Email-subscription-system-is-working-but-there-s-still-something-weird/</id>
     <published>2021-04-15T16:41:26.000Z</published>
-    <updated>2021-04-16T08:26:52.930Z</updated>
+    <updated>2021-04-17T13:49:05.292Z</updated>
     
     <content type="html"><![CDATA[<p>After doing some Google FeedBurner stuff, I managed to subscribe my own blog with my own email. </p><span id="more"></span><p>So this is the first “blog update” email I have ever received:</p><img src="/zhx-blog/2021/04/15/Email-subscription-system-is-working-but-there-s-still-something-weird/email-subs-working-for-the-1st-time.png" class><p>Well, what is the “werid thing” that I’ve talked before?<br>Look at this, google still thought that I have zero subscribers. Maybe it just refreshes at a slow manner. So nothing to worry about right now, since the system is working normally.</p><img src="/zhx-blog/2021/04/15/Email-subscription-system-is-working-but-there-s-still-something-weird/zero-subs.png" class><h2 id="Update-2021-04-16"><a href="#Update-2021-04-16" class="headerlink" title="Update 2021-04-16"></a>Update 2021-04-16</h2><p>Seems like that my email is successfully subscribed to my blog 😊 I’m happy.</p><img src="/zhx-blog/2021/04/15/Email-subscription-system-is-working-but-there-s-still-something-weird/one-sub.png" class>]]></content>
     
@@ -109,29 +100,33 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🤨" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A4%A8/"/>
     
   </entry>
   
   <entry>
-    <title>(Pinned) Hexo Development Checklist</title>
+    <title>📌 Hexo Development Checklist</title>
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/15/Hexo-Development-Check-List/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/15/Hexo-Development-Check-List/</id>
     <published>2021-04-15T12:27:22.000Z</published>
-    <updated>2021-04-17T09:21:47.971Z</updated>
+    <updated>2021-04-17T13:55:44.438Z</updated>
     
-    <content type="html"><![CDATA[<p>Here you can find my Hexo-Dev checklist and some useful hexo documentations</p><span id="more"></span><h1 id="Checklist"><a href="#Checklist" class="headerlink" title="Checklist:"></a>Checklist:</h1><ul><li><input checked disabled type="checkbox"> Favicon and logo <strong>(solved)</strong></li><li><input checked disabled type="checkbox"> Live 2d widget <strong>(solved 2021-04-14)</strong></li><li><input checked disabled type="checkbox"> TOC (table of contents) <strong>(solved 2021-04-15)</strong></li><li><input checked disabled type="checkbox"> Email subscription system <strong>(solved 2021-04-15)</strong></li><li><input checked disabled type="checkbox"> Comments <strong>(solved 2021-04-15)</strong></li><li><input checked disabled type="checkbox"> Share <strong>(solved 2021-04-15)</strong></li><li><input checked disabled type="checkbox"> Category <strong>(solved 2021-04-17)</strong></li><li><input checked disabled type="checkbox"> “About” page</li><li><input disabled type="checkbox"> “Resources” list here (includes lots of useful documentations) which is basically a bunch of links <strong>(Under construction)</strong></li><li><input disabled type="checkbox"> Double live2d widget <strong>(?? worth it?)</strong></li><li><input disabled type="checkbox"> More navbar pages</li></ul><h1 id="Useful-Documentations"><a href="#Useful-Documentations" class="headerlink" title="Useful Documentations"></a>Useful Documentations</h1><h2 id="General"><a href="#General" class="headerlink" title="General"></a>General</h2><ul><li><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/" title target>Blog of the dev of the icarus theme</a></li><li><a href="https://sourceforge.net/p/hexo/wiki/markdown_syntax/#md_ex_text" title target>Markdown syntax</a></li></ul><a href title target></a><a href title target></a><h2 id="TOC"><a href="#TOC" class="headerlink" title="TOC"></a>TOC</h2><ul><li><a href="https://github.com/ppoffice/hexo-theme-icarus/issues/286" title target>Strange behaviour of TOC solution</a></li></ul><p>After deleted that plugin, the normal TOC showed up:</p><img src="/zhx-blog/2021/04/15/Hexo-Development-Check-List/toc-correct.png" class><h2 id="Email-subscription-system"><a href="#Email-subscription-system" class="headerlink" title="Email subscription system"></a>Email subscription system</h2><ul><li><a href="https://www.bilibili.com/video/av838612573/" title target>A bilibili video</a></li><li><a href="https://github.com/hexojs/hexo-generator-feed" title target>RSS generator plugin download</a></li><li><a href="https://feedburner.google.com/fb/a/myfeeds" title target>Google FeedBurner</a></li></ul><p>Wait wait, what does this mean? So there will be <strong>no</strong> email subscription via FeedBurner since this July? NOOOO!</p><img src="/zhx-blog/2021/04/15/Hexo-Development-Check-List/no-feedburner-sad.png" class><h2 id="Comments-Disqus"><a href="#Comments-Disqus" class="headerlink" title="Comments (Disqus)"></a>Comments (Disqus)</h2><ul><li><a href="https://www.programmersought.com/article/45607877607/" title target>Follow this recipe</a></li><li><a href="https://disqus.com/profile/login/" title target>Disqus official site</a></li></ul><h2 id="Share"><a href="#Share" class="headerlink" title="Share"></a>Share</h2><p>First, I chose ShareThis because the dev of this theme icarus also uses this plugin. But then I realized that something is wrong with ShareThis. So I changed to AddThis, which works perfecly now. </p><ul><li><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/Plugins/Share/icarus-user-guide-share-buttons/#more" title target>The complete guide</a></li><li><a href="https://sharethis.com/?no_lredirect=true" title target>Sharethis official site</a></li><li><a href="https://www.addthis.com/" title target>AddThis official site</a></li></ul><p>ShareThis unexpected behaviour: </p><img src="/zhx-blog/2021/04/15/Hexo-Development-Check-List/share-exists-but-looks-like-shit.png" class><h2 id="Categories"><a href="#Categories" class="headerlink" title="Categories"></a>Categories</h2><p>I didn’t consult any documents, I figured it out by myself 😆. Just add this to the head part of my .md file: </p><figure class="highlight plain"><figcaption><span>command</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">category: [cat1]</span><br></pre></td></tr></table></figure><h2 id="“About”-page"><a href="#“About”-page" class="headerlink" title="“About” page"></a>“About” page</h2><p>Just type this at terminal and excute:</p><figure class="highlight plain"><figcaption><span>command</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page &quot;About&quot;</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Here you can find my Hexo-Dev checklist and some useful hexo documentations&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<p>🥳 🤨 🤬<br>Here you can find my Hexo-Dev checklist and some useful hexo documentations</p><span id="more"></span><h1 id="Checklist"><a href="#Checklist" class="headerlink" title="Checklist:"></a>Checklist:</h1><ul><li><input checked disabled type="checkbox"> Favicon and logo <strong>(solved)</strong></li><li><input checked disabled type="checkbox"> Live 2d widget <strong>(solved 2021-04-14)</strong></li><li><input checked disabled type="checkbox"> TOC (table of contents) <strong>(solved 2021-04-15)</strong></li><li><input checked disabled type="checkbox"> Email subscription system <strong>(solved 2021-04-15)</strong></li><li><input checked disabled type="checkbox"> Comments <strong>(solved 2021-04-15)</strong></li><li><input checked disabled type="checkbox"> Share <strong>(solved 2021-04-15)</strong></li><li><input checked disabled type="checkbox"> Category <strong>(solved 2021-04-17)</strong></li><li><input checked disabled type="checkbox"> Create “About” page <strong>(solved 2021-04-17)</strong></li><li><input checked disabled type="checkbox"> Pin an article to top <strong>(solved 2021-04-17)</strong></li><li><input disabled type="checkbox"> “Resources” list here (includes lots of useful documentations) which is basically a bunch of links <strong>(Under construction)</strong></li><li><input disabled type="checkbox"> Double live2d widget <strong>(?? worth it?)</strong></li><li><input disabled type="checkbox"> Complete “About” page</li></ul><h1 id="Useful-Documentations"><a href="#Useful-Documentations" class="headerlink" title="Useful Documentations"></a>Useful Documentations</h1><h2 id="General"><a href="#General" class="headerlink" title="General"></a>General</h2><ul><li><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/" title target>Blog of the dev of the icarus theme</a></li><li><a href="https://sourceforge.net/p/hexo/wiki/markdown_syntax/#md_ex_text" title target>Markdown syntax</a></li></ul><a href title target></a><a href title target></a><h2 id="TOC"><a href="#TOC" class="headerlink" title="TOC"></a>TOC</h2><ul><li><a href="https://github.com/ppoffice/hexo-theme-icarus/issues/286" title target>Strange behaviour of TOC solution</a></li></ul><p>After deleted that plugin, the normal TOC showed up:</p><img src="/zhx-blog/2021/04/15/Hexo-Development-Check-List/toc-correct.png" class><h2 id="Email-subscription-system"><a href="#Email-subscription-system" class="headerlink" title="Email subscription system"></a>Email subscription system</h2><ul><li><a href="https://www.bilibili.com/video/av838612573/" title target>A bilibili video</a></li><li><a href="https://github.com/hexojs/hexo-generator-feed" title target>RSS generator plugin download</a></li><li><a href="https://feedburner.google.com/fb/a/myfeeds" title target>Google FeedBurner</a></li></ul><p>Wait wait, what does this mean? So there will be <strong>no</strong> email subscription via FeedBurner since this July? NOOOO!</p><img src="/zhx-blog/2021/04/15/Hexo-Development-Check-List/no-feedburner-sad.png" class><h2 id="Comments-Disqus"><a href="#Comments-Disqus" class="headerlink" title="Comments (Disqus)"></a>Comments (Disqus)</h2><ul><li><a href="https://www.programmersought.com/article/45607877607/" title target>Follow this recipe</a></li><li><a href="https://disqus.com/profile/login/" title target>Disqus official site</a></li></ul><h2 id="Share"><a href="#Share" class="headerlink" title="Share"></a>Share</h2><p>First, I chose ShareThis because the dev of this theme icarus also uses this plugin. But then I realized that something is wrong with ShareThis. So I changed to AddThis, which works perfecly now. </p><ul><li><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/Plugins/Share/icarus-user-guide-share-buttons/#more" title target>The complete guide</a></li><li><a href="https://sharethis.com/?no_lredirect=true" title target>Sharethis official site</a></li><li><a href="https://www.addthis.com/" title target>AddThis official site</a></li></ul><p>ShareThis unexpected behaviour: </p><img src="/zhx-blog/2021/04/15/Hexo-Development-Check-List/share-exists-but-looks-like-shit.png" class><h2 id="Categories"><a href="#Categories" class="headerlink" title="Categories"></a>Categories</h2><p>I didn’t consult any documents, I figured it out by myself 😆. Just add this to the header of my .md file: </p><figure class="highlight plain"><figcaption><span>command</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">category: [cat1]</span><br></pre></td></tr></table></figure><p>Tags and Categories are pretty much the same thing.</p><p>Insert the code below to header of the .md file to get sub-category called “subcat1”:</p><figure class="highlight plain"><figcaption><span>.md</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">categories: [Hexo-Dev, subcat1]</span><br></pre></td></tr></table></figure><h2 id="“About”-page"><a href="#“About”-page" class="headerlink" title="“About” page"></a>“About” page</h2><p>Just type this at terminal and excute:</p><figure class="highlight plain"><figcaption><span>command</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page &quot;About&quot;</span><br></pre></td></tr></table></figure><h2 id="Pin-an-article-to-top"><a href="#Pin-an-article-to-top" class="headerlink" title="Pin an article to top"></a>Pin an article to top</h2><ul><li><a href="https://github.com/netcan/hexo-generator-index-pin-top/blob/master/README.md" title target>The complete guide</a>After the installation make sure to type down “top: True” in the header of the .md file.</li></ul>]]></content>
     
     
+    <summary type="html">&lt;p&gt;🥳 🤨 🤬&lt;br&gt;Here you can find my Hexo-Dev checklist and some useful hexo documentations&lt;/p&gt;</summary>
     
-    <category term="cat1" scheme="https://truezihaoxu.github.io/zhx-blog/categories/cat1/"/>
     
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
+    
+    <category term="subcat1" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/subcat1/"/>
+    
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -140,17 +135,19 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/15/Successfully-changed-live2d-widget/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/15/Successfully-changed-live2d-widget/</id>
     <published>2021-04-15T11:16:59.000Z</published>
-    <updated>2021-04-15T18:45:52.079Z</updated>
+    <updated>2021-04-17T13:44:18.572Z</updated>
     
-    <content type="html"><![CDATA[<p>I successfully changed live 2d widget to a cat (well the ideal for me is some mecha-stylled widget wwww). The next step is to add two of them, one on the right side and another on the left.</p><span id="more"></span><p>First thing to do is to install the 2d widget helper:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-helper-live2d</span><br></pre></td></tr></table></figure><p>Next, install the model that I wanted: hijiki the cat:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">usage: npm install &#123;packagename&#125;</span><br><span class="line">npm install live2d-widget-model-hijiki</span><br></pre></td></tr></table></figure><p>Then add the following code to the <strong>main</strong> “_config.yml” file (not the “_config.yml” of the theme):</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">live2d:</span><br><span class="line">  enable: true</span><br><span class="line">  scriptFrom: local</span><br><span class="line">  pluginRootPath: live2dw&#x2F;</span><br><span class="line">  pluginJsPath: lib&#x2F;</span><br><span class="line">  pluginModelPath: assets&#x2F;</span><br><span class="line">  tagMode: false</span><br><span class="line">  log: false</span><br><span class="line">  model:</span><br><span class="line">    use: live2d-widget-model-hijiki</span><br><span class="line">  display:</span><br><span class="line">    position: right</span><br><span class="line">    width: 150</span><br><span class="line">    height: 300</span><br><span class="line">  mobile:</span><br><span class="line">    show: true</span><br><span class="line">  react:</span><br><span class="line">    opacity: 1.0</span><br></pre></td></tr></table></figure><p>Then everthing is normal.</p>]]></content>
+    <content type="html"><![CDATA[<p>I successfully changed live 2d widget to a cat (well the ideal for me is some mecha-stylled widget wwww). The next step is to add two of them, one on the right side and another on the left.</p><span id="more"></span><p>First thing to do is to install the 2d widget helper:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-helper-live2d</span><br></pre></td></tr></table></figure><p>Next, install the model that I wanted: hijiki the cat:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">usage: npm install &#123;packagename&#125;</span><br><span class="line">npm install live2d-widget-model-hijiki</span><br></pre></td></tr></table></figure><p>Then add the following code to the <strong>main</strong> “_config.yml” file (not the “_config.yml” of the theme):</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">live2d:</span><br><span class="line">  enable: true</span><br><span class="line">  scriptFrom: local</span><br><span class="line">  pluginRootPath: live2dw&#x2F;</span><br><span class="line">  pluginJsPath: lib&#x2F;</span><br><span class="line">  pluginModelPath: assets&#x2F;</span><br><span class="line">  tagMode: false</span><br><span class="line">  log: false</span><br><span class="line">  model:</span><br><span class="line">    use: live2d-widget-model-hijiki</span><br><span class="line">  display:</span><br><span class="line">    position: right</span><br><span class="line">    width: 150</span><br><span class="line">    height: 300</span><br><span class="line">  mobile:</span><br><span class="line">    show: true</span><br><span class="line">  react:</span><br><span class="line">    opacity: 1.0</span><br></pre></td></tr></table></figure><p>Then everthing works normally.</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;I successfully changed live 2d widget to a cat (well the ideal for me is some mecha-stylled widget wwww). The next step is to add two of them, one on the right side and another on the left.&lt;/p&gt;</summary>
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -159,7 +156,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/15/Maybe-I-found-the-reason-of-icorrect-Safari-tab-favicon/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/15/Maybe-I-found-the-reason-of-icorrect-Safari-tab-favicon/</id>
     <published>2021-04-15T09:32:27.000Z</published>
-    <updated>2021-04-17T09:03:30.527Z</updated>
+    <updated>2021-04-17T13:39:49.264Z</updated>
     
     <content type="html"><![CDATA[<p>Soooo actually the safari tab favicon of newer pages is correct.<br>&lt;(｀^′)&gt; Now I’m using Chrome. It is way better for web development!</p><span id="more"></span><p>My explaination of the bad Safari favicon is:</p><img src="/zhx-blog/2021/04/15/Maybe-I-found-the-reason-of-icorrect-Safari-tab-favicon/new-tab-normal.jpg" class title="this is an image"><p>I don’t have that image in my local folders, hence the old favicon has to be stored in a Safari server. The favicon should be somehow “associated” to my blog’s link, so every time that some one opens my blog’s main page, Safari will put the icon stored in Safari’s server into user’s Safari tab icon. The old icon is not refreshed in the server end.<br>When I create a new page, a new link is created. Then, the Safari’s server will store the correct favicon which is associated only to my new pages, but not the old ones.<br>Solution: wait maybe one week or one month. Let’s see if the lazy Safari server refresh :/</p>]]></content>
     
@@ -168,8 +165,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -178,7 +177,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/14/Let-s-try-to-make-a-table-of-content/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/14/Let-s-try-to-make-a-table-of-content/</id>
     <published>2021-04-14T20:35:11.000Z</published>
-    <updated>2021-04-15T14:30:09.370Z</updated>
+    <updated>2021-04-17T13:44:13.902Z</updated>
     
     <content type="html"><![CDATA[<p>Issue: table of content not working correctly<br>Behaviour: no highlight of the current section; can’t jump to a title by clicking on it.</p><span id="more"></span><p>Solution: delete a plugin called “hexo-toc” that I’ve installed previously using this command:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm uninstall hexo-toc</span><br></pre></td></tr></table></figure><p>So here is my test text:</p><p>Enjoy 😑</p><h1 id="Section-1"><a href="#Section-1" class="headerlink" title="Section 1"></a>Section 1</h1><p>content </p><h2 id="Sub-section-1"><a href="#Sub-section-1" class="headerlink" title="Sub section 1"></a>Sub section 1</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Interdum velit euismod in pellentesque massa placerat duis ultricies. Nam at lectus urna duis. Eu ultrices vitae auctor eu augue ut lectus. Tempus quam pellentesque nec nam aliquam sem et. Tempus quam pellentesque nec nam. Tempor commodo ullamcorper a lacus vestibulum. Porttitor eget dolor morbi non. Nec feugiat nisl pretium fusce. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget. Nulla pellentesque dignissim enim sit amet venenatis urna. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Proin libero nunc consequat interdum varius sit amet. In pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Tellus integer feugiat scelerisque varius morbi. Aliquet eget sit amet tellus cras adipiscing. At imperdiet dui accumsan sit amet nulla facilisi morbi. Mattis aliquam faucibus purus in massa tempor nec feugiat nisl.</p><h1 id="This-is-a-big-heading"><a href="#This-is-a-big-heading" class="headerlink" title="This is a big heading"></a>This is a big heading</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Interdum velit euismod in pellentesque massa placerat duis ultricies. Nam at lectus urna duis. Eu ultrices vitae auctor eu augue ut lectus. Tempus quam pellentesque nec nam aliquam sem et. Tempus quam pellentesque nec nam. Tempor commodo ullamcorper a lacus vestibulum. Porttitor eget dolor morbi non. Nec feugiat nisl pretium fusce. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget. Nulla pellentesque dignissim enim sit amet venenatis urna. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Proin libero nunc consequat interdum varius sit amet. In pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Tellus integer feugiat scelerisque varius morbi. Aliquet eget sit amet tellus cras adipiscing. At imperdiet dui accumsan sit amet nulla facilisi morbi. Mattis aliquam faucibus purus in massa tempor nec feugiat nisl.</p><h2 id="This-is-a-small-heading"><a href="#This-is-a-small-heading" class="headerlink" title="This is a small heading"></a>This is a small heading</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Interdum velit euismod in pellentesque massa placerat duis ultricies. Nam at lectus urna duis. Eu ultrices vitae auctor eu augue ut lectus. Tempus quam pellentesque nec nam aliquam sem et. Tempus quam pellentesque nec nam. Tempor commodo ullamcorper a lacus vestibulum. Porttitor eget dolor morbi non. Nec feugiat nisl pretium fusce. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget. Nulla pellentesque dignissim enim sit amet venenatis urna. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Proin libero nunc consequat interdum varius sit amet. In pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Tellus integer feugiat scelerisque varius morbi. Aliquet eget sit amet tellus cras adipiscing. At imperdiet dui accumsan sit amet nulla facilisi morbi. Mattis aliquam faucibus purus in massa tempor nec feugiat nisl.</p><p>Porttitor rhoncus dolor purus non enim praesent elementum facilisis. Adipiscing diam donec adipiscing tristique risus nec feugiat in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Nulla facilisi cras fermentum odio eu feugiat pretium nibh. Quis commodo odio aenean sed adipiscing diam donec adipiscing tristique. Dui accumsan sit amet nulla facilisi morbi tempus iaculis urna. Lobortis elementum nibh tellus molestie nunc non blandit massa. Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Turpis cursus in hac habitasse platea dictumst quisque. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Enim nunc faucibus a pellentesque sit amet porttitor. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Auctor neque vitae tempus quam pellentesque nec nam. Nec ullamcorper sit amet risus. Eu non diam phasellus vestibulum lorem sed risus ultricies. Id diam vel quam elementum. Consequat nisl vel pretium lectus quam. Nunc consequat interdum varius sit. Velit aliquet sagittis id consectetur purus ut.</p><p>Est velit egestas dui id ornare. Donec et odio pellentesque diam volutpat commodo. In fermentum posuere urna nec tincidunt praesent semper feugiat. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Elit pellentesque habitant morbi tristique senectus. Risus quis varius quam quisque id diam vel quam elementum. Et malesuada fames ac turpis egestas. Non nisi est sit amet facilisis magna etiam. Laoreet id donec ultrices tincidunt. Aliquet nibh praesent tristique magna sit. Molestie ac feugiat sed lectus vestibulum mattis. Dictumst vestibulum rhoncus est pellentesque. Viverra adipiscing at in tellus integer. Nibh venenatis cras sed felis eget velit aliquet sagittis. Pretium fusce id velit ut tortor. Sit amet commodo nulla facilisi nullam vehicula ipsum a arcu.</p><h2 id="This-is-a-small-heading-2"><a href="#This-is-a-small-heading-2" class="headerlink" title="This is a small heading 2"></a>This is a small heading 2</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Interdum velit euismod in pellentesque massa placerat duis ultricies. Nam at lectus urna duis. Eu ultrices vitae auctor eu augue ut lectus. Tempus quam pellentesque nec nam aliquam sem et. Tempus quam pellentesque nec nam. Tempor commodo ullamcorper a lacus vestibulum. Porttitor eget dolor morbi non. Nec feugiat nisl pretium fusce. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget. Nulla pellentesque dignissim enim sit amet venenatis urna. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Proin libero nunc consequat interdum varius sit amet. In pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Tellus integer feugiat scelerisque varius morbi. Aliquet eget sit amet tellus cras adipiscing. At imperdiet dui accumsan sit amet nulla facilisi morbi. Mattis aliquam faucibus purus in massa tempor nec feugiat nisl.</p><p>Porttitor rhoncus dolor purus non enim praesent elementum facilisis. Adipiscing diam donec adipiscing tristique risus nec feugiat in. Nisi scelerisque eu ultrices vitae auctor eu augue ut. Nulla facilisi cras fermentum odio eu feugiat pretium nibh. Quis commodo odio aenean sed adipiscing diam donec adipiscing tristique. Dui accumsan sit amet nulla facilisi morbi tempus iaculis urna. Lobortis elementum nibh tellus molestie nunc non blandit massa. Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Turpis cursus in hac habitasse platea dictumst quisque. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Enim nunc faucibus a pellentesque sit amet porttitor. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Auctor neque vitae tempus quam pellentesque nec nam. Nec ullamcorper sit amet risus. Eu non diam phasellus vestibulum lorem sed risus ultricies. Id diam vel quam elementum. Consequat nisl vel pretium lectus quam. Nunc consequat interdum varius sit. Velit aliquet sagittis id consectetur purus ut.</p><p>Est velit egestas dui id ornare. Donec et odio pellentesque diam volutpat commodo. In fermentum posuere urna nec tincidunt praesent semper feugiat. Nunc lobortis mattis aliquam faucibus purus in massa tempor. Elit pellentesque habitant morbi tristique senectus. Risus quis varius quam quisque id diam vel quam elementum. Et malesuada fames ac turpis egestas. Non nisi est sit amet facilisis magna etiam. Laoreet id donec ultrices tincidunt. Aliquet nibh praesent tristique magna sit. Molestie ac feugiat sed lectus vestibulum mattis. Dictumst vestibulum rhoncus est pellentesque. Viverra adipiscing at in tellus integer. Nibh venenatis cras sed felis eget velit aliquet sagittis. Pretium fusce id velit ut tortor. Sit amet commodo nulla facilisi nullam vehicula ipsum a arcu.</p><p>Malesuada nunc vel risus commodo viverra maecenas accumsan lacus. Et sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque. Eget lorem dolor sed viverra ipsum nunc. Orci dapibus ultrices in iaculis nunc sed augue. Habitant morbi tristique senectus et netus et. A diam sollicitudin tempor id eu nisl nunc mi ipsum. Nam libero justo laoreet sit amet. Morbi tincidunt augue interdum velit. Felis eget nunc lobortis mattis aliquam faucibus purus in. Dui faucibus in ornare quam viverra orci sagittis. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Nec ullamcorper sit amet risus nullam eget felis eget. Euismod lacinia at quis risus sed. Sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Dui vivamus arcu felis bibendum ut tristique et. Enim ut sem viverra aliquet eget sit.</p><p>Egestas maecenas pharetra convallis posuere morbi leo urna. Imperdiet proin fermentum leo vel orci porta. Faucibus nisl tincidunt eget nullam. Pharetra sit amet aliquam id. Felis imperdiet proin fermentum leo vel orci porta non pulvinar. Blandit cursus risus at ultrices mi tempus. Turpis cursus in hac habitasse platea. Elementum tempus egestas sed sed risus. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. Ultricies integer quis auctor elit. Orci phasellus egestas tellus rutrum tellus. Quis blandit turpis cursus in hac habitasse.</p><h2 id="This-is-a-small-heading-3"><a href="#This-is-a-small-heading-3" class="headerlink" title="This is a small heading 3"></a>This is a small heading 3</h2><h2 id="This-is-a-small-heading-4"><a href="#This-is-a-small-heading-4" class="headerlink" title="This is a small heading 4"></a>This is a small heading 4</h2><h2 id="This-is-a-small-heading-5"><a href="#This-is-a-small-heading-5" class="headerlink" title="This is a small heading 5"></a>This is a small heading 5</h2><h2 id="This-is-a-small-heading-6"><a href="#This-is-a-small-heading-6" class="headerlink" title="This is a small heading 6"></a>This is a small heading 6</h2>]]></content>
     
@@ -187,8 +186,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -197,9 +198,9 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/13/Doggo-Vaccine/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/13/Doggo-Vaccine/</id>
     <published>2021-04-13T20:42:18.000Z</published>
-    <updated>2021-04-14T19:28:38.318Z</updated>
+    <updated>2021-04-17T13:45:51.088Z</updated>
     
-    <content type="html"><![CDATA[<p>Doggo got a vaccine ehehe.<br>We went to a veterinary clinic at Arroios to get her a vaccine.</p><img src="/zhx-blog/2021/04/13/Doggo-Vaccine/doggo-vaccine.jpg" class>]]></content>
+    <content type="html"><![CDATA[<p>Doggo got a vaccine ehehe.<br>We went to a veterinary clinic at Arroios to get her a vaccine.</p><img src="/zhx-blog/2021/04/13/Doggo-Vaccine/doggo-vaccine.jpg" class><p>The vaccination was a success. Everyone is happy.</p>]]></content>
     
     
       
@@ -210,8 +211,10 @@
     
     
     
+    <category term="Dollar" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Dollar/"/>
     
-    <category term="Dollar" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Dollar/"/>
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -220,7 +223,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/I-give-up/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/I-give-up/</id>
     <published>2021-04-12T20:13:00.000Z</published>
-    <updated>2021-04-15T08:05:06.059Z</updated>
+    <updated>2021-04-17T13:49:19.024Z</updated>
     
     <content type="html"><![CDATA[<p>Damn it. I have been working on this for say more than 4 hours, but the damn Safari favicon never changed at all. Where the fuck did the Safari get that old favicon? WHERE IS THAT GOD DAMN OLD IMAGE’s SOURCE FILE??? WHERE IS MY NEW IMAGE???<br>The source code (index.html) says that everything is in its place. But the God Damn favicon didn’t refresh.</p><span id="more"></span><p>Everyting is working on Chrome. The shortcut icon on Safari works perfectly. Why the stupid tab icon didn’t change?</p><img src="/zhx-blog/2021/04/12/I-give-up/dosent-make-sense.png" class><img src="/zhx-blog/2021/04/12/I-give-up/doesn't-make-any-fucking-sense.png" class><p>I already tried:<br>1: Open my website at Private mode (Safari)<br>2: Delete all Safari favicon cache that I found in this directory:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~&#x2F;Library&#x2F;Safari&#x2F;Favicon Cache&#x2F;</span><br></pre></td></tr></table></figure><p>3: Restart computer<br>Nothing above worked!<br>But the Chrome has everything CORRECT! Damn it.<br>No more hexo for today. I was really happy when I can put image on my site in the afternoon, but now I’m kinda pissed off.<br>Oh btw, it was quite boring typing “hexo clean”, “hexo g” and “hexo d”. Not to mention the time that you have to wait between these commands. I found that this is a “compact version” of deploy command, it’s quite handy:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g --d</span><br></pre></td></tr></table></figure> ]]></content>
     
@@ -229,8 +232,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🤬" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A4%AC/"/>
     
   </entry>
   
@@ -239,7 +244,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/Solved-site-logo-not-appearing-in-a-hilarious-way/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/Solved-site-logo-not-appearing-in-a-hilarious-way/</id>
     <published>2021-04-12T17:47:53.000Z</published>
-    <updated>2021-04-14T20:11:45.354Z</updated>
+    <updated>2021-04-17T13:43:59.747Z</updated>
     
     <content type="html"><![CDATA[<p>Just RESIZE that God Damn safari window and my logo (fraud alert! XD) appeared!<br>Now I finally solved the logo problem, one more to go:<br>favicon displays differentely on Safari and Chrome wtf? </p><img src="/zhx-blog/2021/04/12/Solved-site-logo-not-appearing-in-a-hilarious-way/logo-solved-remaining-favicon.png" class title="Damn it!">]]></content>
     
@@ -251,8 +256,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -261,7 +268,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/</id>
     <published>2021-04-12T12:22:06.000Z</published>
-    <updated>2021-04-15T09:57:26.462Z</updated>
+    <updated>2021-04-17T13:44:53.719Z</updated>
     
     <content type="html"><![CDATA[<p>My first try failed, but now (after n tries) it is working normally!<br>Now the images doesn’t have a description…why? (•_•;</p><span id="more"></span><img src="/zhx-blog/2021/04/12/First-Post-With-Image-Fixed/one-failed.png" class title="this is a image">]]></content>
     
@@ -270,8 +277,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -280,7 +289,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/test-img/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/test-img/</id>
     <published>2021-04-12T09:50:15.000Z</published>
-    <updated>2021-04-15T13:26:49.933Z</updated>
+    <updated>2021-04-17T13:44:21.971Z</updated>
     
     <content type="html"><![CDATA[<img src="/zhx-blog/2021/04/12/test-img/random-grid.jpg" class title="this is an image"><p>Image is working after excuting this command in terminal (pwd: zhx-hexo):</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install https:&#x2F;&#x2F;github.com&#x2F;7ym0n&#x2F;hexo-asset-image --save</span><br></pre></td></tr></table></figure><p>The code above was copied from: <a href="https://blog.csdn.net/weixin_44708662/article/details/105738361" title="[external] [title]" target>CSDN</a></p><p>Video example:</p><div class="video-container"><iframe src="https://www.youtube.com/embed/feIDVQ2tz0o" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
     
@@ -294,8 +303,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -304,7 +315,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/12/1st-image/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/12/1st-image/</id>
     <published>2021-04-12T09:22:09.000Z</published>
-    <updated>2021-04-15T10:07:06.734Z</updated>
+    <updated>2021-04-17T13:49:20.710Z</updated>
     
     <content type="html"><![CDATA[<p>Cover ratio = 660:283</p>]]></content>
     
@@ -318,8 +329,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🤬" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A4%AC/"/>
     
   </entry>
   
@@ -328,7 +341,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/11/no-css-pos-generate/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/11/no-css-pos-generate/</id>
     <published>2021-04-11T19:37:56.000Z</published>
-    <updated>2021-04-14T20:13:18.406Z</updated>
+    <updated>2021-04-17T13:43:55.672Z</updated>
     
     <content type="html"><![CDATA[<p>Just add this code into _congif.yml and it will be solved:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">url: https:&#x2F;&#x2F;truezihaoxu.github.io&#x2F;zhx-blog&#x2F;</span><br></pre></td></tr></table></figure><img src="/zhx-blog/2021/04/11/no-css-pos-generate/important-thing.png" class title="[Important]">]]></content>
     
@@ -341,8 +354,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
     
-    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Hexo-Dev/"/>
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -351,7 +366,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2021/04/11/hello-world/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2021/04/11/hello-world/</id>
     <published>2021-04-11T19:22:38.869Z</published>
-    <updated>2021-04-14T19:58:51.550Z</updated>
+    <updated>2021-04-17T13:46:30.944Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -363,6 +378,10 @@
     
     
     
+    <category term="Hexo-Dev" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Hexo-Dev/"/>
+    
+    
+    <category term="🥳" scheme="https://truezihaoxu.github.io/zhx-blog/tags/%F0%9F%A5%B3/"/>
     
   </entry>
   
@@ -371,7 +390,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2015/10/23/The-first-meaningful-photo-taken-in-Portugal/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2015/10/23/The-first-meaningful-photo-taken-in-Portugal/</id>
     <published>2015-10-23T12:03:00.000Z</published>
-    <updated>2021-04-14T20:28:47.718Z</updated>
+    <updated>2021-04-17T13:40:53.046Z</updated>
     
     <content type="html"><![CDATA[<p>Well, it is less random but still quite random.</p>]]></content>
     
@@ -384,8 +403,10 @@
     
     
     
+    <category term="Misc" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Misc/"/>
     
-    <category term="Misc" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Misc/"/>
+    
+    <category term="No tag" scheme="https://truezihaoxu.github.io/zhx-blog/tags/No-tag/"/>
     
   </entry>
   
@@ -394,7 +415,7 @@
     <link href="https://truezihaoxu.github.io/zhx-blog/2015/09/15/First-photo-taken-in-Portugal/"/>
     <id>https://truezihaoxu.github.io/zhx-blog/2015/09/15/First-photo-taken-in-Portugal/</id>
     <published>2015-09-15T13:41:00.000Z</published>
-    <updated>2021-04-14T20:20:33.444Z</updated>
+    <updated>2021-04-17T13:42:09.022Z</updated>
     
     <content type="html"><![CDATA[<p>Well it doesn’t make much sense.</p>]]></content>
     
@@ -407,8 +428,10 @@
     
     
     
+    <category term="Misc" scheme="https://truezihaoxu.github.io/zhx-blog/categories/Misc/"/>
     
-    <category term="Misc" scheme="https://truezihaoxu.github.io/zhx-blog/tags/Misc/"/>
+    
+    <category term="No tag" scheme="https://truezihaoxu.github.io/zhx-blog/tags/No-tag/"/>
     
   </entry>
   
