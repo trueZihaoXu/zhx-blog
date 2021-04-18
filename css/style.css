@@ -10935,6 +10935,23 @@ a.article-nav-next span {
   word-wrap: break-word;
   white-space: normal;
 }
+abbr {
+  position: relative;
+  color: #2e8b57;
+}
+abbr:active::before {
+  content: attr(title);
+  white-space: nowrap;
+  position: absolute;
+  top: 100%;
+  background-color: #000;
+  color: #fff;
+  border-radius: 5px;
+  opacity: 0.8;
+  padding-left: 10px;
+  padding-right: 10px;
+  z-index: 999;
+}
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
