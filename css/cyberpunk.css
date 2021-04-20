@@ -11795,9 +11795,10 @@ body.night .footer-logo .logo-img-dark {
 body.night .navbar-main .navbar-menu .navbar-item:hover,
 body.night .navbar-main .navbar-menu .navbar-item:focus {
   color: #fff;
-  background-color: #373d48;
+  background-color: rgba(40,44,52,0.5);
 }
 body.night .navbar,
+body.night .navbar-menu,
 body.night .card {
   background-color: rgba(40,44,52,0.5);
   backdrop-filter: none;
@@ -12144,9 +12145,10 @@ body.night .twikoo code {
   body:not(.light) .navbar-main .navbar-menu .navbar-item:hover,
   body:not(.light) .navbar-main .navbar-menu .navbar-item:focus {
     color: #fff;
-    background-color: #373d48;
+    background-color: rgba(40,44,52,0.5);
   }
   body:not(.light) .navbar,
+  body:not(.light) .navbar-menu,
   body:not(.light) .card {
     background-color: rgba(40,44,52,0.5);
     backdrop-filter: none;
