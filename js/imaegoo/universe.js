@@ -150,9 +150,6 @@
         if (document.body.classList.contains('night')) {
             draw();
         }
-        else {
-            draw();
-        }
         window.requestAnimationFrame(imaegoo);
     })();
 }());
