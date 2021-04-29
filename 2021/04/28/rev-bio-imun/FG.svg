@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="491pt" height="133pt" viewBox="0.00 0.00 490.69 132.80">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 128.8)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-128.8 486.69,-128.8 486.69,4 -4,4"/>
+<!-- MN -->
+<g id="node1" class="node">
+<title>MN</title>
+<polygon fill="#ff1493" stroke="#ff1493" points="84.6744,-124.8 -.2256,-124.8 -.2256,-88.8 84.6744,-88.8 84.6744,-124.8"/>
+<text text-anchor="middle" x="42.2244" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Monócitos</text>
+</g>
+<!-- MF -->
+<g id="node2" class="node">
+<title>MF</title>
+<polygon fill="#ff0000" stroke="#ff0000" points="196.1505,-23.5623 116.2244,-36 36.2983,-23.5623 66.8274,-3.4377 165.6214,-3.4377 196.1505,-23.5623"/>
+<text text-anchor="middle" x="116.2244" y="-13.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Macrófagos</text>
+</g>
+<!-- MN&#45;&gt;MF -->
+<g id="edge1" class="edge">
+<title>MN-&gt;MF</title>
+<path fill="none" stroke="#000000" d="M38.2231,-88.3209C36.9138,-77.5065 37.1623,-64.0477 43.5766,-54 48.8607,-45.7226 56.6602,-39.2831 65.2116,-34.2944"/>
+<polygon fill="#000000" stroke="#000000" points="67.0323,-37.2938 74.3214,-29.6048 63.8283,-31.07 67.0323,-37.2938"/>
+<text text-anchor="middle" x="181.5483" y="-58.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Depois de abandonar os vasos sanguíneos</text>
+</g>
+<!-- FG -->
+<g id="node3" class="node">
+<title>FG</title>
+<polygon fill="#9400d3" stroke="#9400d3" points="412.7996,-106.8 380.512,-124.8 315.9368,-124.8 283.6492,-106.8 315.9368,-88.8 380.512,-88.8 412.7996,-106.8"/>
+<text text-anchor="middle" x="348.2244" y="-102.6" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Fagócitos</text>
+</g>
+<!-- FG&#45;&gt;MF -->
+<g id="edge3" class="edge">
+<title>FG-&gt;MF</title>
+<path fill="none" stroke="#000000" d="M342.4501,-88.5837C337.7822,-76.8716 330.0198,-62.3363 318.2244,-54 299.1854,-40.5444 246.8055,-31.437 200.1574,-25.7491"/>
+<polygon fill="#000000" stroke="#000000" points="200.3378,-22.2462 189.9969,-24.5519 199.5186,-29.1981 200.3378,-22.2462"/>
+</g>
+<!-- NT -->
+<g id="node4" class="node">
+<title>NT</title>
+<polygon fill="#ff0000" stroke="#ff0000" points="443.1613,-23.5623 365.2244,-36 287.2875,-23.5623 317.0568,-3.4377 413.392,-3.4377 443.1613,-23.5623"/>
+<text text-anchor="middle" x="365.2244" y="-13.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Neutrócitos</text>
+</g>
+<!-- FG&#45;&gt;NT -->
+<g id="edge2" class="edge">
+<title>FG-&gt;NT</title>
+<path fill="none" stroke="#000000" d="M351.7468,-88.4006C354.1183,-76.0131 357.2879,-59.4565 359.9575,-45.5118"/>
+<polygon fill="#000000" stroke="#000000" points="363.4372,-45.9493 361.88,-35.4695 356.5621,-44.633 363.4372,-45.9493"/>
+<text text-anchor="middle" x="420.4572" y="-58.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Que se dividem em:</text>
+</g>
+</g>
+</svg>

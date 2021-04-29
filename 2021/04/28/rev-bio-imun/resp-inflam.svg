@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="346pt" height="516pt" viewBox="0.00 0.00 346.22 516.13">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 512.1251)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-512.1251 342.2249,-512.1251 342.2249,4 -4,4"/>
+<!-- FP -->
+<g id="node1" class="node">
+<title>FP</title>
+<polygon fill="#ff0000" stroke="#ff0000" points="261.3023,-508.1251 155.3634,-508.1251 155.3634,-472.1251 261.3023,-472.1251 261.3023,-508.1251"/>
+<text text-anchor="middle" x="208.3329" y="-485.9251" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Ferida na pele</text>
+</g>
+<!-- His -->
+<g id="node2" class="node">
+<title>His</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="208.3329" cy="-405.7095" rx="110.1374" ry="29.3315"/>
+<text text-anchor="middle" x="208.3329" y="-409.9095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Libertação de </text>
+<text text-anchor="middle" x="208.3329" y="-393.1095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">histamina por (quem?)</text>
+</g>
+<!-- FP&#45;&gt;His -->
+<g id="edge1" class="edge">
+<title>FP-&gt;His</title>
+<path fill="none" stroke="#000000" d="M208.3329,-471.8082C208.3329,-464.0572 208.3329,-454.7035 208.3329,-445.5033"/>
+<polygon fill="#000000" stroke="#000000" points="211.833,-445.2747 208.3329,-435.2747 204.833,-445.2748 211.833,-445.2747"/>
+</g>
+<!-- Vaso -->
+<g id="node3" class="node">
+<title>Vaso</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="149.3329" cy="-309.8782" rx="83.2543" ry="29.3315"/>
+<text text-anchor="middle" x="149.3329" y="-314.0782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Vasodilatação </text>
+<text text-anchor="middle" x="149.3329" y="-297.2782" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">e ruborização</text>
+</g>
+<!-- His&#45;&gt;Vaso -->
+<g id="edge2" class="edge">
+<title>His-&gt;Vaso</title>
+<path fill="none" stroke="#000000" d="M190.3104,-376.4362C184.6542,-367.2491 178.3311,-356.9788 172.377,-347.3078"/>
+<polygon fill="#000000" stroke="#000000" points="175.2655,-345.3235 167.0423,-338.6429 169.3046,-348.9934 175.2655,-345.3235"/>
+</g>
+<!-- FG -->
+<g id="node5" class="node">
+<title>FG</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="259.3329" cy="-29.4156" rx="76.4024" ry="29.3315"/>
+<text text-anchor="middle" x="259.3329" y="-33.6156" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Maior número </text>
+<text text-anchor="middle" x="259.3329" y="-16.8156" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">de fagócitos</text>
+</g>
+<!-- His&#45;&gt;FG -->
+<g id="edge3" class="edge">
+<title>His-&gt;FG</title>
+<path fill="none" stroke="#000000" d="M235.6767,-377.1223C249.892,-359.2498 264.3329,-334.9289 264.3329,-309.8782 264.3329,-309.8782 264.3329,-309.8782 264.3329,-129.6313 264.3329,-109.7342 263.3376,-87.6425 262.2351,-69.2754"/>
+<polygon fill="#000000" stroke="#000000" points="265.7231,-68.9742 261.5988,-59.215 258.7371,-69.4161 265.7231,-68.9742"/>
+<text text-anchor="middle" x="301.2789" y="-209.8469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Quimiotaxia</text>
+</g>
+<!-- Perm -->
+<g id="node7" class="node">
+<title>Perm</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="131.3329" cy="-214.0469" rx="92.9608" ry="29.3315"/>
+<text text-anchor="middle" x="131.3329" y="-218.2469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Aumento </text>
+<text text-anchor="middle" x="131.3329" y="-201.4469" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">da permeabilidade</text>
+</g>
+<!-- Vaso&#45;&gt;Perm -->
+<g id="edge4" class="edge">
+<title>Vaso-&gt;Perm</title>
+<path fill="none" stroke="#000000" d="M143.7854,-280.3437C142.1943,-271.8727 140.4335,-262.4984 138.7492,-253.5308"/>
+<polygon fill="#000000" stroke="#000000" points="142.179,-252.8309 136.893,-243.6489 135.2993,-254.1231 142.179,-252.8309"/>
+</g>
+<!-- ED -->
+<g id="node4" class="node">
+<title>ED</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="118.3329" cy="-29.4156" rx="41.7501" ry="18"/>
+<text text-anchor="middle" x="118.3329" y="-25.2156" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Edema</text>
+</g>
+<!-- Intes -->
+<g id="node6" class="node">
+<title>Intes</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="118.3329" cy="-129.6313" rx="118.166" ry="18"/>
+<text text-anchor="middle" x="118.3329" y="-125.4313" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Mais líquidos intesticiais</text>
+</g>
+<!-- Intes&#45;&gt;ED -->
+<g id="edge6" class="edge">
+<title>Intes-&gt;ED</title>
+<path fill="none" stroke="#000000" d="M118.3329,-111.2502C118.3329,-96.2759 118.3329,-74.8799 118.3329,-57.7211"/>
+<polygon fill="#000000" stroke="#000000" points="121.833,-57.6802 118.3329,-47.6802 114.833,-57.6802 121.833,-57.6802"/>
+</g>
+<!-- Intes&#45;&gt;FG -->
+<g id="edge7" class="edge">
+<title>Intes-&gt;FG</title>
+<path fill="none" stroke="#000000" d="M138.9266,-111.8368C151.483,-101.2652 168.0278,-87.8212 183.4241,-76.8313 191.5814,-71.0086 200.4469,-65.1101 209.1459,-59.5435"/>
+<polygon fill="#000000" stroke="#000000" points="211.1726,-62.4031 217.757,-54.1027 207.4336,-56.4853 211.1726,-62.4031"/>
+<text text-anchor="middle" x="217.7873" y="-81.0313" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Diapedese</text>
+</g>
+<!-- Perm&#45;&gt;Intes -->
+<g id="edge5" class="edge">
+<title>Perm-&gt;Intes</title>
+<path fill="none" stroke="#000000" d="M126.7861,-184.5224C125.4535,-175.8692 124.0002,-166.432 122.6803,-157.8615"/>
+<polygon fill="#000000" stroke="#000000" points="126.1351,-157.299 121.1537,-147.9482 119.2166,-158.3645 126.1351,-157.299"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="514pt" height="219pt" viewBox="0.00 0.00 514.32 219.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 215)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-215 510.3203,-215 510.3203,4 -4,4"/>
+<!-- LB -->
+<g id="node1" class="node">
+<title>LB</title>
+<polygon fill="#9400d3" stroke="#9400d3" points="144.7022,-99 108.468,-117 35.9996,-117 -.2346,-99 35.9996,-81 108.468,-81 144.7022,-99"/>
+<text text-anchor="middle" x="72.2338" y="-94.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Linfoblastos</text>
+</g>
+<!-- LFB -->
+<g id="node2" class="node">
+<title>LFB</title>
+<polygon fill="#ff0000" stroke="#ff0000" points="341.5149,-158.5623 262.4062,-171 183.2974,-158.5623 213.5143,-138.4377 311.2981,-138.4377 341.5149,-158.5623"/>
+<text text-anchor="middle" x="262.4062" y="-148.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Linfócitos B</text>
+</g>
+<!-- LB&#45;&gt;LFB -->
+<g id="edge2" class="edge">
+<title>LB-&gt;LFB</title>
+<path fill="none" stroke="#000000" d="M118.7552,-112.2099C144.1202,-119.4124 175.7878,-128.4045 202.9304,-136.1117"/>
+<polygon fill="#000000" stroke="#000000" points="202.1297,-139.5226 212.7055,-138.8874 204.0419,-132.7888 202.1297,-139.5226"/>
+</g>
+<!-- NK -->
+<g id="node3" class="node">
+<title>NK</title>
+<polygon fill="#ff0000" stroke="#ff0000" points="344.2833,-104.5623 262.4062,-117 180.529,-104.5623 211.8033,-84.4377 313.009,-84.4377 344.2833,-104.5623"/>
+<text text-anchor="middle" x="262.4062" y="-94.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Natural Killer</text>
+</g>
+<!-- LB&#45;&gt;NK -->
+<g id="edge3" class="edge">
+<title>LB-&gt;NK</title>
+<path fill="none" stroke="#000000" d="M144.6723,-99C155.7626,-99 167.2894,-99 178.6002,-99"/>
+<polygon fill="#000000" stroke="#000000" points="178.9082,-102.5001 188.9082,-99 178.9082,-95.5001 178.9082,-102.5001"/>
+</g>
+<!-- LFT -->
+<g id="node4" class="node">
+<title>LFT</title>
+<polygon fill="#ff0000" stroke="#ff0000" points="341.1778,-50.5623 262.4062,-63 183.6346,-50.5623 213.7226,-30.4377 311.0897,-30.4377 341.1778,-50.5623"/>
+<text text-anchor="middle" x="262.4062" y="-40.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Linfócitos T</text>
+</g>
+<!-- LB&#45;&gt;LFT -->
+<g id="edge1" class="edge">
+<title>LB-&gt;LFT</title>
+<path fill="none" stroke="#000000" d="M118.7552,-85.7901C146.8873,-77.8019 182.772,-67.6123 211.6377,-59.4158"/>
+<polygon fill="#000000" stroke="#000000" points="212.8673,-62.7051 221.531,-56.6066 210.9552,-55.9713 212.8673,-62.7051"/>
+</g>
+<!-- Plm -->
+<g id="node5" class="node">
+<title>Plm</title>
+<polygon fill="#ffd700" stroke="#ffd700" points="491.442,-211 395.223,-211 395.223,-175 491.442,-175 491.442,-211"/>
+<text text-anchor="middle" x="443.3325" y="-188.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Plasmócitos</text>
+</g>
+<!-- LFB&#45;&gt;Plm -->
+<g id="edge4" class="edge">
+<title>LFB-&gt;Plm</title>
+<path fill="none" stroke="#000000" d="M310.4161,-163.6142C333.4189,-168.6998 361.1578,-174.8324 385.3313,-180.1768"/>
+<polygon fill="#000000" stroke="#000000" points="384.5784,-183.5948 395.0982,-182.3362 386.0896,-176.7599 384.5784,-183.5948"/>
+</g>
+<!-- CM -->
+<g id="node6" class="node">
+<title>CM</title>
+<polygon fill="#ffd700" stroke="#ffd700" points="506.3081,-157 380.3569,-157 380.3569,-121 506.3081,-121 506.3081,-157"/>
+<text text-anchor="middle" x="443.3325" y="-134.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Células-memória</text>
+</g>
+<!-- LFB&#45;&gt;CM -->
+<g id="edge5" class="edge">
+<title>LFB-&gt;CM</title>
+<path fill="none" stroke="#000000" d="M325.9396,-148.0838C340.2518,-146.9763 355.5534,-145.7923 370.2226,-144.6572"/>
+<polygon fill="#000000" stroke="#000000" points="370.557,-148.1419 380.2572,-143.8807 370.0169,-141.1628 370.557,-148.1419"/>
+</g>
+<!-- TH -->
+<g id="node7" class="node">
+<title>TH</title>
+<polygon fill="#ffd700" stroke="#ffd700" points="481.498,-90 405.167,-90 405.167,-54 481.498,-54 481.498,-90"/>
+<text text-anchor="middle" x="443.3325" y="-67.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">T Helpers</text>
+</g>
+<!-- LFT&#45;&gt;TH -->
+<g id="edge6" class="edge">
+<title>LFT-&gt;TH</title>
+<path fill="none" stroke="#000000" d="M321.1478,-53.7661C345.0385,-57.3314 372.3089,-61.401 395.0165,-64.7897"/>
+<polygon fill="#000000" stroke="#000000" points="394.6929,-68.2801 405.1,-66.2945 395.7262,-61.3568 394.6929,-68.2801"/>
+</g>
+<!-- TC -->
+<g id="node8" class="node">
+<title>TC</title>
+<polygon fill="#ffd700" stroke="#ffd700" points="493.8861,-36 392.7789,-36 392.7789,0 493.8861,0 493.8861,-36"/>
+<text text-anchor="middle" x="443.3325" y="-13.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">T Citotóxicos</text>
+</g>
+<!-- LFT&#45;&gt;TC -->
+<g id="edge7" class="edge">
+<title>LFT-&gt;TC</title>
+<path fill="none" stroke="#000000" d="M320.1498,-36.3828C340.0555,-33.4122 362.404,-30.0771 382.5452,-27.0714"/>
+<polygon fill="#000000" stroke="#000000" points="383.1685,-30.5172 392.5424,-25.5795 382.1353,-23.5939 383.1685,-30.5172"/>
+</g>
+</g>
+</svg>

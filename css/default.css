@@ -10952,6 +10952,9 @@ abbr:active::before {
   padding-right: 10px;
   z-index: 999;
 }
+svg {
+  max-width: 100%;
+}
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
