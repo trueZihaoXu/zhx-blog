@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505pt" height="419pt" viewBox="0.00 0.00 505.45 419.50">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 415.4977)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-415.4977 501.4524,-415.4977 501.4524,4 -4,4"/>
+<!-- TX -->
+<g id="node1" class="node">
+<title>TX</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="152.9361" cy="-358.3233" rx="77.6164" ry="41.0911"/>
+<text text-anchor="middle" x="152.9361" y="-370.9233" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Toxcinas</text>
+<text text-anchor="middle" x="152.9361" y="-354.1233" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> produzidas </text>
+<text text-anchor="middle" x="152.9361" y="-337.3233" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">pelas bactérias</text>
+</g>
+<!-- HP -->
+<g id="node3" class="node">
+<title>HP</title>
+<polygon fill="#ffd700" stroke="#ffd700" points="286.2593,-268.1489 197.6129,-268.1489 197.6129,-232.1489 286.2593,-232.1489 286.2593,-268.1489"/>
+<text text-anchor="middle" x="241.9361" y="-245.9489" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Hipotálamo</text>
+</g>
+<!-- TX&#45;&gt;HP -->
+<g id="edge1" class="edge">
+<title>TX-&gt;HP</title>
+<path fill="none" stroke="#000000" d="M184.064,-320.4891C196.1023,-305.8572 209.5799,-289.4759 220.4981,-276.2055"/>
+<polygon fill="#000000" stroke="#000000" points="223.279,-278.3343 226.9297,-268.3883 217.8734,-273.8869 223.279,-278.3343"/>
+</g>
+<!-- SB -->
+<g id="node2" class="node">
+<title>SB</title>
+<ellipse fill="#d3d3d3" stroke="#000000" cx="330.9361" cy="-358.3233" rx="82.0373" ry="53.3494"/>
+<text text-anchor="middle" x="330.9361" y="-379.3233" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Substâncias</text>
+<text text-anchor="middle" x="330.9361" y="-362.5233" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> produzidas </text>
+<text text-anchor="middle" x="330.9361" y="-345.7233" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">pelos linfócitos </text>
+<text text-anchor="middle" x="330.9361" y="-328.9233" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">(pirógenos)</text>
+</g>
+<!-- SB&#45;&gt;HP -->
+<g id="edge2" class="edge">
+<title>SB-&gt;HP</title>
+<path fill="none" stroke="#000000" d="M292.1583,-311.1911C282.3264,-299.2409 272.1155,-286.8302 263.4887,-276.3448"/>
+<polygon fill="#000000" stroke="#000000" points="266.0035,-273.8926 256.9472,-268.394 260.5979,-278.3401 266.0035,-273.8926"/>
+</g>
+<!-- FB -->
+<g id="node4" class="node">
+<title>FB</title>
+<ellipse fill="#ff0000" stroke="#ff0000" cx="241.9361" cy="-161.3489" rx="36.0129" ry="18"/>
+<text text-anchor="middle" x="241.9361" y="-157.1489" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Febre</text>
+</g>
+<!-- HP&#45;&gt;FB -->
+<g id="edge3" class="edge">
+<title>HP-&gt;FB</title>
+<path fill="none" stroke="#000000" d="M241.9361,-231.7494C241.9361,-219.6437 241.9361,-203.5565 241.9361,-189.8162"/>
+<polygon fill="#000000" stroke="#000000" points="245.4362,-189.4208 241.9361,-179.4209 238.4362,-189.4209 245.4362,-189.4208"/>
+<text text-anchor="middle" x="350.4627" y="-201.5489" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">  Aumento da temperatura corporal</text>
+</g>
+<!-- Cons1 -->
+<g id="node5" class="node">
+<title>Cons1</title>
+<ellipse fill="#7fff00" stroke="#7fff00" cx="72.9361" cy="-53.1744" rx="72.8722" ry="41.0911"/>
+<text text-anchor="middle" x="72.9361" y="-65.7744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Aumento da</text>
+<text text-anchor="middle" x="72.9361" y="-48.9744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> eficácia</text>
+<text text-anchor="middle" x="72.9361" y="-32.1744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> de fagocitose</text>
+</g>
+<!-- FB&#45;&gt;Cons1 -->
+<g id="edge4" class="edge">
+<title>FB-&gt;Cons1</title>
+<path fill="none" stroke="#000000" d="M219.3583,-147.1754C201.7697,-136.1098 176.7568,-120.3206 154.9361,-106.3489 146.6841,-101.0651 137.9823,-95.4593 129.4535,-89.9455"/>
+<polygon fill="#000000" stroke="#000000" points="131.3023,-86.973 121.0055,-84.4778 127.4988,-92.8496 131.3023,-86.973"/>
+</g>
+<!-- Cons2 -->
+<g id="node6" class="node">
+<title>Cons2</title>
+<ellipse fill="#7fff00" stroke="#7fff00" cx="241.9361" cy="-53.1744" rx="78.3152" ry="53.3494"/>
+<text text-anchor="middle" x="241.9361" y="-74.1744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Inibição da</text>
+<text text-anchor="middle" x="241.9361" y="-57.3744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> multiplicação</text>
+<text text-anchor="middle" x="241.9361" y="-40.5744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> de alguns </text>
+<text text-anchor="middle" x="241.9361" y="-23.7744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">micróbios</text>
+</g>
+<!-- FB&#45;&gt;Cons2 -->
+<g id="edge5" class="edge">
+<title>FB-&gt;Cons2</title>
+<path fill="none" stroke="#000000" d="M241.9361,-142.9985C241.9361,-135.4826 241.9361,-126.3001 241.9361,-116.7086"/>
+<polygon fill="#000000" stroke="#000000" points="245.4362,-116.6179 241.9361,-106.6179 238.4362,-116.618 245.4362,-116.6179"/>
+</g>
+<!-- Cons3 -->
+<g id="node7" class="node">
+<title>Cons3</title>
+<ellipse fill="#7fff00" stroke="#7fff00" cx="417.9361" cy="-53.1744" rx="79.5326" ry="53.3494"/>
+<text text-anchor="middle" x="417.9361" y="-74.1744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Facilitação da</text>
+<text text-anchor="middle" x="417.9361" y="-57.3744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> reparação</text>
+<text text-anchor="middle" x="417.9361" y="-40.5744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> de tecidos </text>
+<text text-anchor="middle" x="417.9361" y="-23.7744" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">lesionados</text>
+</g>
+<!-- FB&#45;&gt;Cons3 -->
+<g id="edge6" class="edge">
+<title>FB-&gt;Cons3</title>
+<path fill="none" stroke="#000000" d="M264.945,-147.2069C286.6554,-133.8632 320.2898,-113.1905 350.4993,-94.6229"/>
+<polygon fill="#000000" stroke="#000000" points="352.6439,-97.4131 359.3306,-89.1949 348.9784,-91.4495 352.6439,-97.4131"/>
+</g>
+</g>
+</svg>
