@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="388pt" height="524pt" viewBox="0.00 0.00 387.75 524.17">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 520.1702)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-520.1702 383.7492,-520.1702 383.7492,4 -4,4"/>
+<!-- Prim -->
+<g id="node1" class="node">
+<title>Prim</title>
+<polygon fill="#d3d3d3" stroke="#000000" points="143.9911,-516.1702 33.7554,-516.1702 33.7554,-480.1702 143.9911,-480.1702 143.9911,-516.1702"/>
+<text text-anchor="middle" x="88.8733" y="-493.9702" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">1ª exposição</text>
+</g>
+<!-- Al -->
+<g id="node2" class="node">
+<title>Al</title>
+<ellipse fill="#ffa500" stroke="#ffa500" cx="88.8733" cy="-389.9958" rx="51.5175" ry="18"/>
+<text text-anchor="middle" x="88.8733" y="-385.7958" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Alergénio</text>
+</g>
+<!-- Prim&#45;&gt;Al -->
+<g id="edge1" class="edge">
+<title>Prim-&gt;Al</title>
+<path fill="none" stroke="#000000" d="M88.8733,-479.8199C88.8733,-462.9344 88.8733,-437.6377 88.8733,-418.1883"/>
+<polygon fill="#000000" stroke="#000000" points="92.3734,-418.0751 88.8733,-408.0751 85.3734,-418.0751 92.3734,-418.0751"/>
+</g>
+<!-- B -->
+<g id="node3" class="node">
+<title>B</title>
+<ellipse fill="#9932cc" stroke="#9932cc" cx="88.8733" cy="-254.6057" rx="64.3172" ry="18"/>
+<text text-anchor="middle" x="88.8733" y="-250.4057" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Linfócitos B</text>
+</g>
+<!-- Al&#45;&gt;B -->
+<g id="edge2" class="edge">
+<title>Al-&gt;B</title>
+<path fill="none" stroke="#000000" d="M88.8733,-371.7365C88.8733,-349.0254 88.8733,-309.9918 88.8733,-283.2748"/>
+<polygon fill="#000000" stroke="#000000" points="92.3734,-283.0081 88.8733,-273.0081 85.3734,-283.0082 92.3734,-283.0081"/>
+<text text-anchor="middle" x="120.766" y="-306.2214" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Ativação</text>
+</g>
+<!-- Pl -->
+<g id="node4" class="node">
+<title>Pl</title>
+<ellipse fill="#9932cc" stroke="#9932cc" cx="88.8733" cy="-170.1901" rx="66.0897" ry="18"/>
+<text text-anchor="middle" x="88.8733" y="-165.9901" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Plasmócitos</text>
+</g>
+<!-- B&#45;&gt;Pl -->
+<g id="edge3" class="edge">
+<title>B-&gt;Pl</title>
+<path fill="none" stroke="#000000" d="M88.8733,-236.2888C88.8733,-225.3374 88.8733,-211.1865 88.8733,-198.7896"/>
+<polygon fill="#000000" stroke="#000000" points="92.3734,-198.4712 88.8733,-188.4713 85.3734,-198.4713 92.3734,-198.4712"/>
+</g>
+<!-- Mas -->
+<g id="node5" class="node">
+<title>Mas</title>
+<ellipse fill="#e9967a" stroke="#e9967a" cx="88.8733" cy="-41.295" rx="88.7467" ry="41.0911"/>
+<text text-anchor="middle" x="88.8733" y="-53.895" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Sensibilização </text>
+<text text-anchor="middle" x="88.8733" y="-37.095" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">dos mastócitos e</text>
+<text text-anchor="middle" x="88.8733" y="-20.295" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> dos basófilos</text>
+</g>
+<!-- Pl&#45;&gt;Mas -->
+<g id="edge4" class="edge">
+<title>Pl-&gt;Mas</title>
+<path fill="none" stroke="#000000" d="M88.8733,-151.9959C88.8733,-136.6099 88.8733,-113.79 88.8733,-92.8601"/>
+<polygon fill="#000000" stroke="#000000" points="92.3734,-92.778 88.8733,-82.778 85.3734,-92.778 92.3734,-92.778"/>
+<text text-anchor="middle" x="132.8319" y="-121.5901" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Segregação</text>
+<text text-anchor="middle" x="132.8319" y="-104.7901" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> de anticorpos</text>
+</g>
+<!-- Seg -->
+<g id="node6" class="node">
+<title>Seg</title>
+<polygon fill="#d3d3d3" stroke="#000000" points="323.9911,-516.1702 213.7554,-516.1702 213.7554,-480.1702 323.9911,-480.1702 323.9911,-516.1702"/>
+<text text-anchor="middle" x="268.8733" y="-493.9702" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">2ª exposição</text>
+</g>
+<!-- MasFuria -->
+<g id="node7" class="node">
+<title>MasFuria</title>
+<ellipse fill="#ff0000" stroke="#ff0000" cx="268.8733" cy="-389.9958" rx="110.7519" ry="53.3494"/>
+<text text-anchor="middle" x="268.8733" y="-410.9958" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Libertação excessiva</text>
+<text text-anchor="middle" x="268.8733" y="-394.1958" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff"> de histamina</text>
+<text text-anchor="middle" x="268.8733" y="-377.3958" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">pelos mastócitos</text>
+<text text-anchor="middle" x="268.8733" y="-360.5958" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">e pelos basófilos</text>
+</g>
+<!-- Seg&#45;&gt;MasFuria -->
+<g id="edge5" class="edge">
+<title>Seg-&gt;MasFuria</title>
+<path fill="none" stroke="#000000" d="M268.8733,-479.8199C268.8733,-472.3039 268.8733,-463.1215 268.8733,-453.53"/>
+<polygon fill="#000000" stroke="#000000" points="272.3734,-453.4392 268.8733,-443.4393 265.3734,-453.4393 272.3734,-453.4392"/>
+</g>
+<!-- Cons -->
+<g id="node8" class="node">
+<title>Cons</title>
+<ellipse fill="#b22222" stroke="#b22222" cx="268.8733" cy="-254.6057" rx="65.5168" ry="29.3315"/>
+<text text-anchor="middle" x="268.8733" y="-258.8057" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Resposta </text>
+<text text-anchor="middle" x="268.8733" y="-242.0057" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">inflamatória</text>
+</g>
+<!-- MasFuria&#45;&gt;Cons -->
+<g id="edge6" class="edge">
+<title>MasFuria-&gt;Cons</title>
+<path fill="none" stroke="#000000" d="M268.8733,-336.486C268.8733,-322.4886 268.8733,-307.644 268.8733,-294.4939"/>
+<polygon fill="#000000" stroke="#000000" points="272.3734,-294.3595 268.8733,-284.3595 265.3734,-294.3595 272.3734,-294.3595"/>
+</g>
+</g>
+</svg>
